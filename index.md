@@ -4,7 +4,7 @@
 
 ### Data Analysis 
 
-[Project 1 Title](/sample_page)
+[911 Calls - Data Analysis](/911 Calls - Data Analysis)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -19,7 +19,7 @@
 
 ### Project links
 
-- [Project 1 Title](http://example.com/)
+- [911 Calls - Data Analysis](http://example.com/)
 - [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](https://github.com/ShpatCheliku/smt)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
