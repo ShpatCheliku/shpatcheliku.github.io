@@ -5,21 +5,21 @@
 ### Data Analysis 
 
 [911 Calls - Data Analysis](/911 Calls - Data Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/911.png?raw=true"/>
 
 ---
 [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](/pdf/music_classification.pdf)
 <img src="images/music_classification.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[911 Calls - Data Analysis](/911 Calls - Data Analysis)
+<img src="images/911.png?raw=true"/>
 
 ---
 
 ### Project links
 
-- [911 Calls - Data Analysis](http://example.com/)
+- [911 Calls - Data Analysis](https://github.com/ShpatCheliku/911_calls)
 - [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](https://github.com/ShpatCheliku/smt)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
