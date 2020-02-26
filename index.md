@@ -19,7 +19,7 @@
 
 ### Project links
 
-- [911 Calls - Data Analysis](https://github.com/ShpatCheliku/911_calls)
+- [Exploratory Data Analsysis - 911 Calls](https://github.com/ShpatCheliku/911_calls)
 - [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](https://github.com/ShpatCheliku/smt)
 - [Web Scraping - List of all universities in Canada and their website addresses](https://github.com/ShpatCheliku/web_scraping)
 - [Project 4 Title](http://example.com/)
