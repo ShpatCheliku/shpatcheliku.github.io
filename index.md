@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](http://example.com/)
+- [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](https://github.com/ShpatCheliku/smt)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
