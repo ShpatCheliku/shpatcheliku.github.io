@@ -4,7 +4,7 @@
 
 ### Data Analysis 
 
-[911 Calls - Data Analysis](/911 Calls - Data Analysis)
+[Exploratory Data Analsysis - 911 Calls](/911 Calls - Data Analysis)
 <img src="images/911.PNG?raw=true"/>
 
 ---
