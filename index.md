@@ -5,7 +5,7 @@
 ### Data Analysis 
 
 [911 Calls - Data Analysis](/911 Calls - Data Analysis)
-<img src="images/911.png?raw=true"/>
+<img src="images/911.PNG?raw=true"/>
 
 ---
 [Exploratory Data Analysis - Real vs Automatically Generated Irish Folk Tunes](/pdf/music_classification.pdf)
@@ -13,7 +13,7 @@
 
 ---
 [911 Calls - Data Analysis](/911 Calls - Data Analysis)
-<img src="images/911.png?raw=true"/>
+<img src="images/911.PNG?raw=true"/>
 
 ---
 
